@@ -1,6 +1,6 @@
 --[[
     Use this file to specify **System** preferences.
-    Review [examples](+C:\Users\urqr49\etc\PortableApps\PortableApps\ZeroBrane\cfg\user-sample.lua) or check [online documentation](http://studio.zerobrane.com/documentation.html) for details.
+    Review [examples](+\ZeroBrane\cfg\user-sample.lua) or check [online documentation](http://studio.zerobrane.com/documentation.html) for details.
 --]]
 -- Editor
 editor.fontname = "Roboto Mono"

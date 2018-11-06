@@ -26,7 +26,7 @@ styles.fold = {fg = {92, 99, 112}, bg = {40, 44, 52}, sel = {209, 154, 102}}
 styles.indent = {fg = {92, 99, 112}, bg = {40, 44, 52}}
 styles.keywords0 = {fg = {189, 102, 216}} -- pink
 styles.keywords1 = {fg = {224, 108, 117}} -- light red
-styles.keywords2 = {fg = {60, 115, 240}} -- dark blue
+styles.keywords2 = {fg = {64, 164, 178}} -- torquise
 styles.keywords3 = {fg = {97, 175, 239}} -- light blue
 styles.keywords4 = {fg = {97, 175, 239}} -- light blue
 styles.keywords5 = {fg = {97, 175, 239}} -- light blue

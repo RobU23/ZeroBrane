@@ -5,4 +5,4 @@ Font definition and size (8pt) (need RobotoMono installed), multiple style.defin
 
 **TwoDark** - A theme based on the OneDark syntax theme from the Atom editor. This theme is built around Roboto Mono, a tasty monospaced font from Google [Google Fonts](https://fonts.google.com/specimen/Roboto+Mono).  
 
-[(Lua screenshot)](https://github.com/RobU23/ZeroBrane/wiki)
+[(Lua screenshot)](https://github.com/RobU23/ZeroBrane/wiki/TwoDark-for-ZeroBrane)
